@@ -1,6 +1,6 @@
 html {
     height: 100%;
-    background-image: url(./Assets/trainer_battles_arena.jpg);
+    background-image: url(.Assets/trainer_battles_arena.jpg);
     background-size: cover;
     background-repeat: no-repeat;
 }
